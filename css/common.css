@@ -1,0 +1,28 @@
+/* цвет главный черный #212121*/
+/* цвет вторичный серый #757575 */
+/* цвет кнопки белый #FFFFFF */
+/* цвет ссылок в футере белый #FFFFFF60 % */
+/* цвет вторичный #2F303A; */
+/* цвет ховера #2196F3 */
+/* цвет фона блока наш персонал #F5F4FA */
+/* цвет лого веб футера */
+
+.list {
+    list-style: none;
+}
+
+:root {
+    --primary-text-color: #212121;
+    --titel-text-C: #212121;
+    --accent-color: #2196F3;
+    --secondary-text-color: #757575;
+    --button-text-color: #ffffff;
+    --button-bg-color: #2196F3;
+    --logo-web-color: #2196F3;
+    --section-color: #212121;
+    --primary-bg-color: #2F303A;
+}
+
+
+
+/* ------ COMMON.CSS  создан для треннировки------ */
